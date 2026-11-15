@@ -181,3 +181,10 @@ main section .botao_verde {
         gap: 1.5rem;
     }
 }
+
+/* board22 visit-count */
+.attribution #va-visits, footer #va-visits {
+  font-size: inherit;
+  color: inherit;
+  margin-top: 0.35rem;
+}
